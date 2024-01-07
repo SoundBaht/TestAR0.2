@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="House2_Trigger" size="0.215000 0.120566" />
+  </Tracking>
+</QCARConfig>
